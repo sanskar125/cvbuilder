@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49539648.css",
+    "main.js": "/static/js/main.95717603.js",
+    "static/js/787.61b62c3a.chunk.js": "/static/js/787.61b62c3a.chunk.js",
+    "static/media/EBGaramond-VariableFont_wght.ttf": "/static/media/EBGaramond-VariableFont_wght.baa0e0cf79395becf7d7.ttf",
+    "static/media/KaushanScript-Regular.ttf": "/static/media/KaushanScript-Regular.a668b3d996f7c50fb3fe.ttf",
+    "static/media/GFSDidot-Regular.ttf": "/static/media/GFSDidot-Regular.aa2e986896f35e45a4d8.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/YesevaOne-Regular.ttf": "/static/media/YesevaOne-Regular.77e7411de8c57683e277.ttf",
+    "static/media/Bangers-Regular.ttf": "/static/media/Bangers-Regular.0e89a2279da24d283991.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/JosefinSans-Bold.ttf": "/static/media/JosefinSans-Bold.a3a7c833253b917d3b74.ttf",
+    "static/media/Righteous-Regular.ttf": "/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
+    "static/media/logoLight.png": "/static/media/logoLight.7d9dfeeba3fa5d721608.png",
+    "index.html": "/index.html",
+    "main.49539648.css.map": "/static/css/main.49539648.css.map",
+    "main.95717603.js.map": "/static/js/main.95717603.js.map",
+    "787.61b62c3a.chunk.js.map": "/static/js/787.61b62c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49539648.css",
+    "static/js/main.95717603.js"
+  ]
+}
